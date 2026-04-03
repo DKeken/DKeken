@@ -32,12 +32,3 @@
 [![](https://img.shields.io/badge/-🔌%20gitlab--mcp-000)](https://github.com/DKeken/gitlab-mcp)
 [![](https://img.shields.io/badge/-🔌%20trello--mcp-000)](https://github.com/DKeken/trello-mcp)
 [![](https://img.shields.io/badge/-⚡%20effector--tma-000)](https://github.com/DKeken/effector-tma)
-
-<details>
-<summary>📊 Stats</summary>
-<br/>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DKeken&show_icons=true&hide_title=true&hide_border=true&count_private=true&text_color=aaa&icon_color=58a6ff&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKeken&layout=compact&hide_title=true&hide_border=true&text_color=aaa&bg_color=00000000&langs_count=6" />
-</p>
-</details>
